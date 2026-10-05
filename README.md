@@ -22,6 +22,8 @@ I’m an IT student who enjoys building websites, learning programming, and expl
 
 🍔 **College Canteen Ordering System**
 A simple web-based canteen ordering system for students.
+## 🌐 Live Demo
+[🍔 View Live Website](https://yakshbhisra01-commits.github.io/Tapi-college-Student-Canteen/)
 
 🎯 **Online Quiz System**
 An interactive quiz website with questions, answers and score calculation.
